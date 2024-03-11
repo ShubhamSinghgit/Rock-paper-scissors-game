@@ -32,6 +32,7 @@ Explore the live demonstration of the Rock, Paper, Scissors Game [here](https://
 1. Clone the repository to your local machine:
 
    ```bash
+   git clone https://github.com/ShubhamSinghgit/Rock-paper-scissors-game.git
    
 
 ## Contributing
